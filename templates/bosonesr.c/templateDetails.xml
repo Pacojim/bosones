@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="template">
+	<name>Bosones R. C.</name>
+	<creationDate>2016-11-21</creationDate>
+	<author>Francisco Jiménez</author>
+	<authorEmail>fjderi@gmail.com</authorEmail>
+	<authorUrl>http://www.example.com</authorUrl>
+	<copyright>Rebisoft 2016</copyright>
+	<license>GNU/GPL</license>
+	<version>1.0.1</version>
+	<description>Plantilla para la página wed de Bosones Rugby Club</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<folder>img</folder>
+		<folder>css</folder>
+		<folder>js</folder>
+	</files>
+	<positions>
+		<position>mainmenu</position>
+		<position>left</position>
+		<position>right</position>
+	</positions>
+</extension>
